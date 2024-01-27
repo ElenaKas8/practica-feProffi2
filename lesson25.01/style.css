@@ -1,0 +1,60 @@
+button {
+    padding: 12px 17px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 3px 3px 5px grey;
+    font-weight: bold;
+    transition: background-color 1.3 ease;
+    transition: box-shadow 1.3 ease;
+  }
+  
+  button:hover {
+    background-color: grey;
+    box-shadow: 5px 5px 8px lightgray;
+  }
+  
+  .red {
+    background-color: red;
+    color: white;
+  }
+  
+  .green {
+    background-color: green;
+    color: white;
+  }
+  
+  .blue {
+    background-color: blue;
+    color: white;
+  }
+  
+  .black {
+    background-color: black;
+    color: white;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .rectangle {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+  }
+ 
+
+
+  
+  .input {
+    width: 90%;
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid grey;
+  }
+  
+  .addBtn {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid grey;
+  }
