@@ -1,0 +1,41 @@
+
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    list-style-type: none;
+}
+
+h1{
+    
+    color: rgb(18, 78, 78);
+}
+
+h3{
+  
+    color: rgb(92, 151, 218);
+}
+
+ul{
+    max-width: 80%;
+    margin: auto;
+}
+
+li{
+    font-weight: bold;
+    color: rgb(22, 31, 28);
+    box-shadow: -5px 3px 20px cadetblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 0 10px 0;
+    transition: scale,box-shadow, 0.6s ease;
+}
+
+li:hover{
+    box-shadow: 5px 5px 8px lightgray;
+    background-color: rgb(255, 255, 255);
+    scale: 1.1;
+    cursor: pointer;
+    scale: 1.1;
+} */
